@@ -1,5 +1,6 @@
 # Aplikasi Perpustakaan Sederhana-PHP
 
-## My old Project
+## Prroyek lamaku
+
 Database Name : pp
 sql file ada di folder db/
